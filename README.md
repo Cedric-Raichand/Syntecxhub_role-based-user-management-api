@@ -50,34 +50,6 @@ role-based-user-management-api/
 
 ---
 
-## ⚙️ Installation
-
-### 1. Install dependencies
-
-```bash
-npm install
-```
-
----
-
-### 2. Create `.env`
-
-```env
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=mysecretkey
-PORT=5000
-```
-
----
-
-### 3. Run server
-
-```bash
-node server.js
-```
-
----
-
 ## 📡 API Endpoints
 
 ### Authentication
